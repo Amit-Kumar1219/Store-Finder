@@ -7,8 +7,10 @@ We’ve taken away all the stress associated with shopping for daily essentials,
 order all your household products and even buy groceries online without travelling long distances
 or standing in serpentine queues.
 
+This is Just a Frontend.We will work on Backend afterward.
+
 Members are:
-Amit Kumar 
-Siddharth Chakraborty
-Kolla Seshu Kiran
+Amit Kumar,
+Siddharth Chakraborty,
+Kolla Seshu Kiran,
 Ankit Jha
